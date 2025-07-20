@@ -40,20 +40,20 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
+|  título  | Crie um título de um ebook sobre o tema de git e github, o ebook é do nicho de programação e o subnicho é de versionamento de codigo, o título deve schamativo, me liste 5 variações de títulos                                                        |
 | conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
 
 
-Midjourney：
+Copilot：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | 2D digital illustration for an ebook cover: a human skull in profile view with a glowing light bulb inside the cranium, symbolizing a bright idea. The skull is semi-transparent to reveal the bulb clearly, and the light casts a warm glow through the eye socket and jaw. The background is a neutral gray to enhance the illumination effect. The neck is removed, showing only the skull. Subtle rays or sparks radiate from the bulb. The composition is centered and balanced for ebook cover use, with space at the top or bottom for title text. Artistic style: clean, detailed 2D digital art with a surreal and conceptual tone. |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Copilot
 
 ## 📚 Materiais
 
