@@ -29,14 +29,13 @@ seguem abaixo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) 
+- [Gemini](https://gemini.google.com/)
 - [Copilot](https://m365.cloud.microsoft/chat/?auth=2&origindomain=microsoft365)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
 
-
-ChatGPT：
+Gemini：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -52,7 +51,7 @@ Copilot：
 
 ## ✨ Features
 
-- Conteúdo gerado via ChatGPT
+- Conteúdo gerado via Gemini
 - Imagens geradas via Copilot
 
 ## 📚 Materiais
